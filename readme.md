@@ -65,3 +65,26 @@ You can test this application locally before deployment using XAMPP or WAMP:
    ```
 
    ---
+
+## 📂 Project Structure
+
+```bash
+CloudWatch/
+├── index.html                  # Main landing page
+├── login.php                   # Login form handler
+├── signupvalidation.php        # Sign-up logic with form validation
+├── resetvalidation.php         # Password reset handling
+├── profile-image.php           # Profile image upload handler
+├── profile-updation.php        # Profile update logic
+├── css/                        # Stylesheets
+├── js/                         # JavaScript interactions
+├── fonts/                      # Custom font resources
+├── images/                     # Posters, icons, and assets
+├── video/                      # Local video samples or placeholders
+├── manage_profile_files/       # CSS/JS resources for profile page
+├── *.html                      # Rich content and user flow pages
+└── readme.md                   # This documentation
+```
+
+---
+
