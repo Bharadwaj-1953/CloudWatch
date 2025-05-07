@@ -88,3 +88,41 @@ CloudWatch/
 
 ---
 
+## 🌍 User Flow
+
+- **Visit Home Page**: Browse through featured and trending shows.
+- **Sign Up / Login**: Create an account or access your profile.
+- **Explore Shows**: View categorized content, descriptions, and mock thumbnails.
+- **Manage Profile**: Update your name, image, or credentials.
+- **Reset Password**: Use email input and reset form securely.
+
+---
+
+## 💡 Future Enhancements
+
+- Integrate MySQL or cloud-hosted RDS for persistent user and video metadata
+- Enable real-time video streaming from AWS S3 or a CDN
+- Add authentication via AWS Cognito or OAuth providers
+- Add rating, comment, and review sections for shows
+- Develop admin dashboard to manage users and upload new media
+- Integrate AI-based content recommendation engine
+
+---
+
+## 🔐 Security and Hosting Considerations
+
+- PHP scripts validated with server-side checks
+- Form inputs sanitized to prevent injection attacks
+- Hosted securely behind AWS firewall rules with restricted port access
+- AWS EC2 instance hardened with minimal package footprint
+
+---
+
+## 📬 Contact Information
+
+For any detailed information, clarification, or collaboration inquiries regarding this project, feel free to reach out:
+
+- **Email**: [manne.bharadwaj.1953@gmail.com](mailto:manne.bharadwaj.1953@gmail.com)
+- **LinkedIn**: [Bharadwaj Manne](https://www.linkedin.com/in/bharadwaj-manne-711476249/)
+
+---
